@@ -2,7 +2,7 @@
 ## _Deep Learning Project_
 
 
-Sign Language Detection or SLD is a <u>Convolutional Neural Network</u> project that helps the machine to identify the sign language speakers with an accuracy reach 98%.
+Sign Language Detection or SLD is a <u>Convolutional Neural Network</u> project that helps the machine identify the sign language speakers with an accuracy reach 98%.
 
 ## Dataset Preview:
 You can find the dataset in [Github.com/ardamavi](https://github.com/ardamavi/Sign-Language-Digits-Dataset). Thanks to his efforts.
@@ -14,11 +14,12 @@ You can find the dataset in [Github.com/ardamavi](https://github.com/ardamavi/Si
 
 ## Features
 
-- Building Accurate model using application of MobileNet.
+- Building an Accurate model using the application MobileNet.
 - The model is light and fast – so, you will not be afraid to run it into mobile devices.
-- The notebook includes everything you need from documentray.
-- This model built on google colab – if you decide to run the model in google platforms cloud, you will find how the directory being dealed with.
-- Lastly, This model is in the production level which means you can use it into your application without haveing any problem.
+- The notebook includes everything you need from the documentary.
+- This model is built on google colab – if you decide to run the model in google platforms cloud, you will find how the directory is being dealt.
+- Lastly, This model is at the production level means you can use it in your application without having any problems.
+
 
 ## Model Architecture
 ```
