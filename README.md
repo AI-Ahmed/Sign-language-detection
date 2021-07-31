@@ -218,7 +218,8 @@ SLD uses Number of IDE, libraries, and API(s) to work properly:
 - [Google Drive](https://drive.google.com) - Google Drive is a file storage and synchronization service developed by Google.
 - [Tensorflow](https://www.tensorflow.org/) - TensorFlow is a free and open-source software library for machine learning!
 - [Keras API](https://keras.io/) - Keras is an API designed for human beings, not machines..
-- [scikit-learn](https://scikit-learn.org) - Scikit-learn is a free software machine learning library for the Python programming language.
+- [scikit-learn](https://scikit-learn.org) - Scikit-learn is a free software machine learning library for the Python. programming language.
+- [matplotlib](https://matplotlib.org/) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 Lastly, I want to thank [Deeplizard.com](deeplizard.com/) for helping me in this project.
 ## License
